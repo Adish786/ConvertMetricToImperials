@@ -1,0 +1,14 @@
+com\imperial\demo\DemoApplication.class
+com\imperial\demo\service\convertor\ConvertorService$1.class
+com\imperial\demo\config\CorsConfiguration.class
+com\imperial\demo\service\convertor\Convertor.class
+com\imperial\demo\service\LengthService.class
+com\imperial\demo\service\TemperatureService.class
+com\imperial\demo\service\VolumeService.class
+com\imperial\demo\service\AreaService.class
+com\imperial\demo\service\convertor\ConversionType.class
+com\imperial\demo\controller\ConversionController.class
+com\imperial\demo\service\WeightService.class
+com\imperial\demo\service\convertor\ConvertorService.class
+com\imperial\demo\service\convertor\SystemType.class
+com\imperial\demo\service\convertor\ConvertorFactory.class

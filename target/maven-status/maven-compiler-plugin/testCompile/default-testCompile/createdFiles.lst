@@ -1,0 +1,7 @@
+com\imperial\demo\service\VolumeServiceTest.class
+com\imperial\demo\controller\ConversionControllerTest.class
+com\imperial\demo\DemoApplicationTests.class
+com\imperial\demo\service\WeightServiceTest.class
+com\imperial\demo\service\LengthServiceTest.class
+com\imperial\demo\service\TemperatureServiceTest.class
+com\imperial\demo\service\AreaServiceTest.class
