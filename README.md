@@ -51,3 +51,14 @@ I had played around with the idea of each service (where applicable) being able 
 I had considered implementing in this manner, but it seemed to be overkill for the brief and decided instead to opt for a simplified solution to cater to just one unit of measurement per conversion.
 
 Note :- Use the latest Angular to create a front end for your project. (Only if you have time)
+
+Docker :- 
+Step 1 :- Build the maven project run the command // clean compile install
+
+Step 2 :- check the docker are install your local system and check the version // docker --version
+
+step 3 :- Build the docker project using  the run command with local system // docker build -t convertmetrictoimperial .
+
+step 4:- Check the docker image using the command // docker image ls 
+
+step 5 :- Run the Dokcer Project using the command with image id and port number  //docker run -p 9191:9191 convertmetrictoimperial
